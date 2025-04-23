@@ -5,6 +5,7 @@
  * Run the Main file first
  * plotter will show output
  
-
+## video link
+https://github.com/Parag-IIT/Impedance_Control_MatLab_robotics/blob/main/video.mp4
  # Enjoy
  
