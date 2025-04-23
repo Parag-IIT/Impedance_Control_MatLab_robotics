@@ -31,7 +31,7 @@ ra_e = ra_b + rb_e;
 
 matlabFunction(ra_e, 'file', 'ForwardKin');
 
-%Velocities
+%Velocities.
 Vc1 = d1*thdot1*eth1;
 VB = l1*thdot1*eth1;
 Vc2 = VB + d2*(thdot2+thdot1)*eth2;

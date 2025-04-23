@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Animate the acrobot after the MAIN script has been run.
 %
-%   Matthew Sheen, 2014
+%   Parag Chorasia, 2024
 %
 %   Note: data is passed from this to the callback functions in the figure
 %   object's UserData field.
